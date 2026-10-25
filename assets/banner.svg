@@ -46,8 +46,7 @@
 
     <!-- Title -->
     <text x="400" y="70" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" fill="url(#tg)">Rawan Azzam</text>
-    <text x="400" y="98" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#9aa4c7">WordPress  &#8226;  Node.js  &#8226;  Terraform  &#8226;  Cloud Engineer</text>
-
+ <text x="400" y="98" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#9aa4c7"> &#8226; Software Engineer  &#8226; WordPress  &amp; Node.js Developer  &#8226;   Cloud Engineer</text>
     <!-- Pipeline line: nodes at x = 175, 325, 475, 625 -->
     <line x1="175" y1="158" x2="625" y2="158" stroke="#3a4170" stroke-width="2" stroke-dasharray="6 6"/>
 
