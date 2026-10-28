@@ -6,7 +6,11 @@
 
 ## 🚀 About Me
 
-> Software engineer developing mobile applications with Flutter and building websites with WordPress — currently pursuing AWS certifications and gaining hands-on cloud experience.
+👩‍💻 Software Engineer | WordPress Developer | Node.js Developer | Aspiring Cloud Engineer
+
+I'm a Software Engineer with hands-on experience in WordPress development and backend development using Node.js. I enjoy building web applications, customizing websites, and developing practical software solutions.
+
+☁️ Currently, I'm expanding my expertise in Cloud Computing and AWS, strengthening my skills in cloud architecture, networking, security, and scalability while preparing for the AWS Certified Solutions Architect – Associate certification.
 
 ---
 
