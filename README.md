@@ -17,7 +17,7 @@ I'm a Software Engineer with hands-on experience in WordPress development and ba
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="assets/tech-stack.svg" alt="Tech Stack" width="100%" />
+  <img src="assets/tech-pipeline.svg" alt="Tech Stack" width="100%" />
 </p>
 
 ---
